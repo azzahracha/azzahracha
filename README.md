@@ -2,16 +2,10 @@
 
 I'm passionate about transforming data into meaningful insights and continuously improving my analytical skills through hands-on projects and lifelong learning.
 
-## 🌱 Currently Learning
-
-- Python for Data Analysis
-- SQL
-- Power BI
-- Data Visualization
-
 ## 📊 Areas of Interest
 
 - Data Analytics
+- Data Visualization
 - Business Intelligence
 - Statistics
 - Research & Insights

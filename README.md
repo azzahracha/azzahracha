@@ -24,8 +24,5 @@ I'm passionate about transforming data into meaningful insights and continuously
 - Excel
 - Power BI
 - Tableau
-- Git & GitHub
 
-## 📫 Connect With Me
-
-- LinkedIn: www.linkedin.com/in/azzahracha
+Let's Get Connect on My [LinkedIn](www.linkedin.com/in/azzahracha)!!

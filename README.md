@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Azzahra 👋 Thankyou For Visiting my Profile
 
-<!--
-**azzahracha/azzahracha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about transforming data into meaningful insights and continuously improving my analytical skills through hands-on projects and lifelong learning.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python for Data Analysis
+- SQL
+- Power BI
+- Data Visualization
+
+## 📊 Areas of Interest
+
+- Data Analytics
+- Business Intelligence
+- Statistics
+- Research & Insights
+
+## 🛠️ Tools
+
+- RStudio
+- Python
+- SQL
+- Excel
+- Power BI
+- Tableau
+- Git & GitHub
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/azzahracha
